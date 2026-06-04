@@ -1,62 +1,35 @@
-<div align="center">
+# Hi, I'm Victor Mwai 👋
 
-# Victor Mwai
+### AI Engineer • Data Scientist • Full-Stack Developer • Professional Googler of Error Messages
 
-**AI/ML Engineer • Full‑Stack Developer • Fintech + Web3 Builder**
+I build intelligent systems that automate workflows, turn data into decisions, and occasionally convince stubborn bugs to disappear.
 
-I build production systems that turn data into decisions — and ship fast, clean, and secure software.
+My work sits at the intersection of **Artificial Intelligence, Data Science, Software Engineering, and Fintech**, where I spend most of my time teaching computers to make predictions, building products that solve real-world problems, and wondering why the code that worked yesterday suddenly doesn't today.
 
-</div>
-
----
-
-## Focus
-- **AI/ML in production:** LLM apps, NLP, prediction, automation
-- **Backend systems:** Django/FastAPI, REST APIs, auth, payments, scalable architecture
-- **Fintech & Crypto:** arbitrage, wallets, risk, on-chain/off-chain integrations
-
-## Featured Projects
-- **Arbitrex** — AI‑assisted crypto arbitrage monitoring + execution tooling
-- **FlexiOwn Backend** — fintech platform API (auth, wallets, plans) with ML enhancements
-- **Analytics** — automated stats + ML pipelines (because SPSS was too manual)
-
-## Tech Stack
-**Languages:** Python, JavaScript, SQL
-
-**ML/LLM:** PyTorch, TensorFlow, scikit‑learn, OpenAI, LangChain, Hugging Face
-
-**Backend:** Django, DRF, FastAPI
-
-**Data:** PostgreSQL, MySQL, SQLite
-
-**Ops:** Git, Docker, Linux, CI/CD
+When I'm not training models or designing APIs, you'll probably find me experimenting with new ideas, optimizing something that was already working, or turning coffee into production-ready software.
 
 ---
 
-## GitHub Stats
-<div align="center">
+### What I'm Currently Up To
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mwaivictor&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+* Building AI-powered products
+* Turning messy data into useful insights
+* Making automation do the boring stuff
+* Creating systems that scale beyond "it works on my machine"
+* Shipping exciting projects (and trying not to break production)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwaivictor&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mwaivictor&theme=tokyonight&hide_border=true)
-
-</div>
+💡 I'll keep you posted on some exciting projects. Stay tuned.
 
 ---
 
-## Now
-- Building **AI‑powered fintech** and **crypto automation** tools
-- Shipping **LLM integrations** that are measurable, reliable, and safe
+### Find Me
 
-## Contact
-- **Email:** mwaivictorbrian68@gmail.com
-- **LinkedIn:** https://linkedin.com (update with your real link)
-- **Portfolio:** Coming soon
+**Email:** [mwaivictorbrian68@gmail.com](mailto:mwaivictorbrian68@gmail.com)
 
-<div align="center">
+**LinkedIn:** Currently enjoying a peaceful life away from social media. I might return someday.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mwaivictor&color=blueviolet&style=flat-square)
+**Portfolio:** Coming soon™ (just one more feature... probably).
 
-</div>
+---
+
+> "Turning data into decisions, ideas into products, and coffee into code."
