@@ -8,19 +8,21 @@ My work sits at the intersection of **Artificial Intelligence, Data Science, Sof
 
 When I'm not training models or designing APIs, you'll probably find me experimenting with new ideas, optimizing something that was already working, or turning coffee into production-ready software.
 
+---
 
-### What I'm Currently Up To
+## What I'm Currently Up To
 
 * Building AI-powered products
 * Turning messy data into useful insights
 * Making automation do the boring stuff
-* Creating systems that scale beyond "it works on my machine"
+* Creating systems that scale beyond *"it works on my machine"*
 * Shipping exciting projects (and trying not to break production)
 
 💡 I'll keep you posted on some exciting projects. Stay tuned.
 
+---
 
-### Find Me
+## Find Me
 
 **Email:** [mwaivictorbrian68@gmail.com](mailto:mwaivictorbrian68@gmail.com)
 
@@ -28,6 +30,9 @@ When I'm not training models or designing APIs, you'll probably find me experime
 
 **Portfolio:** Coming soon™ (just one more feature... probably).
 
+---
 
-> "Turning data into decisions, ideas into products, and coffee into code."
-> "Stay Guided I was here before claude-code, codex and Chatgpt."
+> *"Turning data into decisions, ideas into products, and coffee into code."*
+
+> *"Stay guided. I was automating things before Claude Code, codex and copilot made it cool."* 
+
