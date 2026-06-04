@@ -8,7 +8,6 @@ My work sits at the intersection of **Artificial Intelligence, Data Science, Sof
 
 When I'm not training models or designing APIs, you'll probably find me experimenting with new ideas, optimizing something that was already working, or turning coffee into production-ready software.
 
----
 
 ## What I'm Currently Up To
 
@@ -20,7 +19,6 @@ When I'm not training models or designing APIs, you'll probably find me experime
 
 💡 I'll keep you posted on some exciting projects. Stay tuned.
 
----
 
 ## Find Me
 
@@ -30,7 +28,6 @@ When I'm not training models or designing APIs, you'll probably find me experime
 
 **Portfolio:** Coming soon™ (just one more feature... probably).
 
----
 
 > *"Turning data into decisions, ideas into products, and coffee into code."*
 
