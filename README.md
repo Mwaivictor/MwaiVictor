@@ -30,3 +30,4 @@ When I'm not training models or designing APIs, you'll probably find me experime
 
 
 > "Turning data into decisions, ideas into products, and coffee into code."
+> "Stay Guided I was here before claude-code, codex and Chatgpt."
