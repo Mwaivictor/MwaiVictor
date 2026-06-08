@@ -4,7 +4,7 @@
 
 I build intelligent systems that automate workflows, turn data into decisions, and occasionally convince stubborn bugs to disappear.
 
-My work sits at the intersection of **Artificial Intelligence, Data Science, Software Engineering, and Fintech**, where I spend most of my time teaching computers to make predictions, building products that solve real-world problems, and wondering why the code that worked yesterday suddenly doesn't today.
+My work sits at the intersection of **Artificial Intelligence, Data Science, Software Engineering, and Fintech with a pinch of bio-informatics**, where I spend most of my time teaching computers to make predictions, building products that solve real-world problems, and wondering why the code that worked yesterday suddenly doesn't today.
 
 When I'm not training models or designing APIs, you'll probably find me experimenting with new ideas, optimizing something that was already working, or turning coffee into production-ready software.
 
